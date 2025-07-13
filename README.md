@@ -6,6 +6,9 @@ A simple ticketing system built with Django, allowing users to register, log in,
 
 <img width="788" height="581" alt="image" src="https://github.com/user-attachments/assets/62a030a0-5ff5-4670-af25-0530a180b00d" />
 
+<img width="1920" height="934" alt="image" src="https://github.com/user-attachments/assets/bd0ab6ca-3062-4463-8c8e-4cfa3814d785" />
+
+
 
 
 ## Features
